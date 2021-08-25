@@ -3,5 +3,6 @@
     <string name="image_of_random_meme">image of random meme</string>
     <string name="share">Share</string>
     <string name="next">Next</string>
+    <string name="textview">TextView</string>
 
 </resources>
